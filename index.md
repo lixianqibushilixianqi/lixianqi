@@ -1,2 +1,2 @@
-<p>李贤齐</p>：诡异之人
-p {color:red;}
+<p style="color:red">李贤齐</p>：诡异之人
+
